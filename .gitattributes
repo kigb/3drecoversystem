@@ -1,2 +1,2 @@
 *.obj filter=lfs diff=lfs merge=lfs -text
-Assets/Materials/*.png filter=lfs diff=lfs merge=lfs -text
+Assets/Assets/Materials/*.png filter=lfs diff=lfs merge=lfs -text
